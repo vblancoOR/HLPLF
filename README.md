@@ -15,3 +15,6 @@ The data for the three dataset that we consider in our experiments were download
 
 - _CAB_ (O’Kelly ME (1987) A quadratic integer program for the location of interacting hub facilities. European Journal of Operational Research 32(3):393–404) and _AP_ (Ernst AT, Krishnamoorthy M (1996) Efficient algorithms for the uncapacitated single allocation p-hub median problem. Location Science 4(3):139 – 154.) datasets: http://people.brunel.ac.uk/~mastjjb/jeb/orlib/
 - _TR_ dataset (Tan PZ, Kara BY (2007) A hub covering model for cargo delivery systems. Networks: An International Journal 49(1):28–39.):  https://ie.bilkent.edu.tr/~bkara/dataset.php
+
+
+A preprint ouf our paper is available in Arxiv: https://arxiv.org/abs/2204.03707
